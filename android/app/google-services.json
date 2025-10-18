@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674449130901",
+    "project_id": "udhar-6a6d3",
+    "storage_bucket": "udhar-6a6d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674449130901:android:417d07b790f548cdf3229c",
+        "android_client_info": {
+          "package_name": "com.example.udhar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf6P5pm8E9t0Iqm7VFAkIF2KpkqSdT1d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
