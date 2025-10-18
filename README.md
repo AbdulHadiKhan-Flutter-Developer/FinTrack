@@ -1,4 +1,4 @@
-# Monay Tracking
+# Fintrack
 
 A new Flutter project.
 
